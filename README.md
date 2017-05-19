@@ -16,4 +16,4 @@ This is a basic calculator. Add, subtract, multiply, and divide to your heart's 
 
 ###Questions?
 
-Contact me at <stanley@stanleycyang.com>
+Contact me at <srinath.kavuri@gmail.com>
